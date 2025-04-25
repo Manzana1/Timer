@@ -7,7 +7,7 @@
 
 .app {
   text-align: center;
-  font-family: cursive, Arial, Helvetica, sans-serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .buttons {
@@ -23,14 +23,14 @@
   width: 200px;
 }
 button {
-  background: #fcafed69;
-  border: outset #e8e6e6;
+  background: white;
+  border: none;
   padding: 10px 15px;
   cursor: pointer;
   font-size: 16px;
-  font-family: cursive;
+  font-family: Georgia, "Times New Roman", Times, serif;
   border-radius: 5px;
-
+  box-shadow: 10px 10px 5px lightgray;
   transition: transform 0.3s cubic-bezier(0.2, 1, 0.5, 2);
 }
 button:hover {

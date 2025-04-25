@@ -28,12 +28,14 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-color: #fff0ed;
 }
 
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
-  font-family: cursive;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #ff9386;
 }
 
 @media (prefers-color-scheme: light) {
